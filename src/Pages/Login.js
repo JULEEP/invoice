@@ -62,8 +62,8 @@ const LoginPage = () => {
           <div className="flex flex-col items-center justify-center space-y-1">
             <div className="flex items-center space-x-2">
               <div className="text-2xl font-bold flex gap-1">
-                <span className="text-blue-600">CREDENT</span>
-                <span className="text-black">HEALTH</span>
+                <span className="text-blue-600">ADMIN</span>
+                <span className="text-black">LOGIN</span>
               </div>
             </div>
             <div className="text-sm font-semibold text-gray-600">Admin Login</div>
