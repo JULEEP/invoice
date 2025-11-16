@@ -52,7 +52,6 @@ const Dashboard = () => {
         <StatCard title="Companies" value={dashboardData.companies} />
         <StatCard title="Diagnostics" value={dashboardData.diagnostics} />
         <StatCard title="Doctor Appointments" value={dashboardData.appointments} />
-        <StatCard title="HRA" value={dashboardData.hra} />
         <StatCard title="User" value={dashboardData.staff} />
         <StatCard title="Doctors" value={dashboardData.doctors} />
         <StatCard title="Diagnostic Booking" value={dashboardData.bookings} />
